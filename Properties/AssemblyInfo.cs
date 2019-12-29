@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Bytekiller")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Amiga Bytekiller.NET")]
+[assembly: AssemblyDescription("Implementation of the bytekiller cruncher/decruncher in C# and .NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Bytekiller")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("Amiga Bytekiller.NET")]
+[assembly: AssemblyCopyright("(w) Alexander Dimitriadis 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
